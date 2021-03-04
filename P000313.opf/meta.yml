@@ -1,15 +1,16 @@
-id: opecha:P000313
+id: P000313
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12061
   title: ཕྱག་རྡོར་ཐུགས་ཀྱི་སྙིང་ཁུའི་སྐོར།
-  volume:
+  author: ''
+  volumes:
     c42f1e6c613541b1878464842d6bb424:
       image_group_id: I1KG12065
       title: Volume 1 of phyag rdor thugs kyi snying khu'i skor/
       volume_number: 1
       total_pages: 562
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱག་རྡོར་ཐུགས་ཀྱི་སྙིང་ཁུའི་སྐོར།
   author: ''
